@@ -17,3 +17,11 @@ array = sorted(array, reverse=True)
 #정렬 결과 출력
 for i in array:
   print(i, end=' ')
+
+
+'''
+3
+15
+27
+12 입력시 27 15 12출력
+'''
