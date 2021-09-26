@@ -36,3 +36,13 @@ for i in check:
   else:
     print('no', end=' ')
 
+
+
+'''
+>>입력
+5
+8 3 7 9 2
+3
+5 7 9
+>>출력
+no yes yes
